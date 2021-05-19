@@ -1,4 +1,1 @@
-# js-car-game
-Javascript Car Game
-
-https://tanu31195.github.io/js-car-game/
+THIS GAME IS MADE BY ME.I HAVE MADE THIS GAME BY REFFERING TO WHJR CLASSES
